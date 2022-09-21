@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{https://github.com/vivianemartini/gallery-devchallenge}">
+    <a href="https://github.com/vivianemartini/gallery-devchallenge">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{https://vivianemartini.github.io/gallery-devchallenge/}">
+    <a href="https://vivianemartini.github.io/gallery-devchallenge">
       Solution
     </a>
     <span> | </span>
