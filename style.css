@@ -111,9 +111,9 @@ header {
 /* Gallery */
 
 main {
-    display: flex;
-    margin-left: 150px;
+    display: grid;
     margin-top: 40px;
+    justify-content: center;
 }
 
 .gallery {
