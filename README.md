@@ -63,3 +63,10 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 - GitHub [@your-username](https://github.com/vivianemartini)
 - Twitter [@your-twitter](https://{twitter.com/coffeeeandcode})
+
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details
+
+## Acknowledgments
+- Thanks DevChallenge
+
